@@ -8,8 +8,6 @@
 - 🦔 Beginner programmer.(Junior)
 - 🚲 In my free time, I watch anime and developing my soft skills.
 
-<img src="https://media3.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.webp" width="150" align="right"/>
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -40,10 +38,3 @@
 - [Task list 2.0](https://task-list2-0.onrender.com)
 - [Sakura no Kaze](https://sakura-no-kaze.vercel.app/)
 - [Zen ToDo list](https://disk.yandex.by/d/sjhul9LPyRX5XQ)
-
----
-
-<p align="center">
-  <a href="https://github.com/EzikDima"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=KoeiRitsuma&style=flat-square&color=blue" alt="Profile views"/>
-</p>
