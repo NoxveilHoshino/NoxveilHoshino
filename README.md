@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 My name is Dmitriy. I'm from Belarus.
-- 🦔 Beginner programmer.
+- 🦔 Beginner programmer.(Junior)
 - 🚲 In my free time, I watch anime and developing my soft skills.
 
 <img src="https://media3.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.webp" width="150" align="right"/>
